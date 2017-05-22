@@ -10,7 +10,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Extended version of the very easy-to-use schedule management system to create beautiful responsive Timetable. 
 Please update manually by dropping files from the .zip you downloaded on stereonomy.com into the plugin folder
-Ceci est une modification pour l'exercice de openclassrooms sur Git
 
 == Description ==
 
